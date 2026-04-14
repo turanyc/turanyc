@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/KENDI_KULLANICI_ADIN">Uziee</a> , a Software Engineer 👨‍💻</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/turanyc">Turan</a> , a Software Engineer 👨‍💻</h1>
 
 🔭 Currently, I work as a Software Engineer on a project developing high-performance AI-based coin data using TypeScript and Elastic Search.
 
@@ -45,4 +45,18 @@
 ### Badges & My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=turanyc&show_icons=true&theme=dracula" />
+</p>
+
+### Socials
+
+<p align="left">
+  <a href="https://github.com/turanyc" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/turan_yc" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/mustafa-turan-yılancıoğlu-27448525b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
