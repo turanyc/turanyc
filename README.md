@@ -52,10 +52,6 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
-### Badges & My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=turanyc&show_icons=true&theme=dracula" />
-</p>
 
 ### Socials
 
