@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/turanyc">Turan</a> , a Software Engineer 👨‍💻</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/turanyc">Turan</a> , a Computer Engineer 👨‍💻</h1>
 
 🔭 Currently, I work as a Software Engineer on a project developing high-performance AI-based coin data using TypeScript and Elastic Search.
 
