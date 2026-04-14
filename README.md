@@ -1,11 +1,14 @@
-Hi, I'm turanyc , a Software Engineer 👨‍💻
+<h1 align="center">Hi, I'm <a href="https://github.com/KENDI_KULLANICI_ADIN">Uziee</a> , a Software Engineer 👨‍💻</h1>
 
-🔭 I’m currently working as a Software Engineer at Qlu.ai developing high performance AI based SaaS based applications with PERN, TypeScript and Elastic Search.
+🔭 Currently, I work as a Software Engineer on a project developing high-performance AI-based coin data using TypeScript and Elastic Search.
+
 👯 I’m looking to collaborate on any Full Stack Web Applications specially in AI and DL.
-🤝 I’m looking for help with my projects in AI and Engineering solutions.
-🌱 I’m currently learning all about evolving Technologies to keep myself up to date such as Web3 and GenAi
-💬 Ask me anything related to TypeScript , NextJs
 
+🤝 I’m looking for help with my projects in AI and Engineering solutions.
+
+🌱 I’m currently learning all about evolving Technologies to keep myself up to date such as Web3 and GenAI
+
+💬 Ask me anything related to TypeScript, NextJs
 
 
 
